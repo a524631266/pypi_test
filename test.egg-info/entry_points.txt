@@ -1,0 +1,3 @@
+[console_scripts]
+test1 = pypi_test.module1:runcmd
+

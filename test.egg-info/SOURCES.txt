@@ -1,7 +1,9 @@
-README.md
-setup.py
-test/__init__.py
+pypi_test/__init__.py
+pypi_test/module3.py
+pypi_test/module1/__init__.py
+pypi_test/module2/__init__.py
 test.egg-info/PKG-INFO
 test.egg-info/SOURCES.txt
 test.egg-info/dependency_links.txt
+test.egg-info/entry_points.txt
 test.egg-info/top_level.txt
